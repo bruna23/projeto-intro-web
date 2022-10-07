@@ -94,7 +94,7 @@ if (filme1.oscar) {
 if (filme2.oscar) {
     estudioGhibli.push(filme2)
 } else {
-    alert("O filme \" O serviço de entregas da kiki \" não foi encontrado")
+   // alert("O filme \" O serviço de entregas da kiki \" não foi encontrado")
 }
 
 if (filme3.oscar) {
